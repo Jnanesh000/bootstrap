@@ -1,0 +1,98 @@
+*{
+    padding: 0;
+    margin:0;
+}
+.container-2{
+    background-color:#efe8fa ;
+    width:100%;
+    padding:20px 20px 50px 20px;
+}
+.subheading{
+    color: grey;
+}
+.heading{
+    font-size:35px;
+}
+.bold-text{
+    font-weight: bold;
+}
+.para{
+    font-size:20px;
+}
+
+.profile-img{
+    width:420px;
+    height:420px;
+    border-radius:50%;
+}
+.profile-img-small{
+   width: 250px;
+   height: 250px;
+   border-radius: 50%;
+}
+
+.button1{
+    background-color: blueviolet;
+    color: white;
+    font-weight: bold;
+    border-radius:15px;
+    padding:15px 30px 15px 30px;
+    margin: 10px;
+    border:none;
+
+}
+.button2{
+    background-color: transparent;
+    color: blueviolet;
+    font-weight: bold;
+    border-radius:15px;
+    padding:15px 30px 15px 30px;
+    margin: 10px;
+    border-color: blueviolet;
+
+}
+.skills-heading{
+    background-color: green;
+    color: white;
+    padding: 20px;
+}
+.min-image{
+    width: 130px;
+    height: 130px;
+    padding:15px;
+}
+.language{
+    margin:60px;
+    border:none;
+    box-shadow:3px 4px 10px 10px gray;
+}
+.side-heading{
+    text-decoration: underline;
+}
+.git-image{
+    width: 60px;
+    height: 60px;
+}
+.skills-btn{
+    padding:10px 20px 10px 20px;
+    border-radius: 10px;
+    border:none;
+}
+.project-image{
+    width:200px;
+    height:200px;
+}
+.project-style{
+    padding-left: 30px;
+}
+.service-image{
+    width: 100px;
+    height: 100px;
+}
+.container-5{
+    padding:30px 10px 30px 30px;  
+    width: 100%;
+    background-color:#dedce0;
+
+}
+   
